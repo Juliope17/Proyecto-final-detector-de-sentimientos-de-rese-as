@@ -19,4 +19,4 @@ Modelo Híbrido de Autómatas y Red Neuronal para el Análisis de Sentimientos E
 Contacto:
 -destructor2715@gmail.com
 -antonioruizj193@gmail.com
--edinsonpalacio999@gmail.com-
+-edinsonpalacio999@gmail.com
